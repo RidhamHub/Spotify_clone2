@@ -1,0 +1,40 @@
+{
+  "albums": [
+    {
+      "folder": "Garba",
+      "title": "Garba Collection",
+      "description": "Popular Garba songs",
+      "cover": "cover.jpg",
+      "tracks": [
+        "Mor Bani Thanghat Kare.mp3",
+        "Moti Veraana.mp3",
+        "Naagar Nandji Na Laal.mp3",
+        "Tetudo.mp3"
+      ]
+    },
+    {
+      "folder": "Gujarati",
+      "title": "Gujarati Hits",
+      "description": "Best Gujarati songs",
+      "cover": "cover.jpg",
+      "tracks": [
+        "Rang Bhini Radha.mp3",
+        "Satrangi Re.mp3",
+        "Vhalam Aavo Ne.mp3"
+      ]
+    },
+    {
+    "folder": "Romantic",
+    "title": "Romantic Melodies",
+    "description": "Romantic tracks collection",
+    "cover": "cover.jpg",
+    "tracks": [
+      "Bairiyaa.mp3",
+      "Dekhha Tenu.mp3",
+      "Dhoonde_Akhiyaan.mp3",
+      "Tu_Chahiye.mp3"
+    ]
+  }
+  ]
+}
+
